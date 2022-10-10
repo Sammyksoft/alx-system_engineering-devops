@@ -1,1 +1,1 @@
-This repository contains solutions to shell task
+0-hello_world
